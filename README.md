@@ -1,1 +1,2 @@
-# sgcc-95598
+# SGCC
+Project for SGCC
